@@ -1,0 +1,50 @@
+@font-face{
+    font-family:peach;
+    src: url(peach.ttf);}
+
+@font-face{
+    font-family:calli;
+    src: url(calli.otf);}
+  
+@font-face{
+    font-family:sunshine;
+    src: url(sunshine.ttf);}
+    
+    @font-face{
+        font-family:cookie;
+        src: url(cookie.ttf);}
+
+    @font-face{
+        font-family:belinda;
+        src: url(belinda.otf);}
+
+body {
+	background-color: #ffe6e6; 
+	font-family: sunshine;
+}
+
+.container {
+	width: 80%;
+	margin: 40px auto;
+	padding: 20px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+header {
+	background-color: #ffa2c1;
+	padding: 20px;
+	text-align: center;
+	font-size: 30px;
+	font-family:belinda;
+	color:  #ffffff;}
+
+h2 {color: #ffa2c1;font-size: 20px;font-family:calli;}
+h10 {color: #ffa2c1;font-size: 20px;font-family:peach;}
+
+
+nav ul {
+	list-style: none;
+	margin: 0;
+	padding }
